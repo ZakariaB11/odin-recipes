@@ -4,6 +4,12 @@ body{
 
 a{
     font-family: Garamond;
-    padding: 6px;
+    padding: 8px;
     margin: 4px;
+    font-size: 13px;
+    text-decoration: none;
+    text-align: center;
+}
+#mainH{
+    color: rgb(139, 81, 33);
 }
